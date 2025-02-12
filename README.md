@@ -76,7 +76,7 @@ Database: MongoDB Atlas
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/real-time-stock-market.git
+git clone https://github.com/AmriteshRaj123/stockmarket-project.git
 cd real-time-stock-market
 
 2️⃣ Backend Setup
