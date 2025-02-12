@@ -56,19 +56,19 @@ Database: MongoDB Atlas
 📂 Folder Structure
 
 # real-time-stock-market/
-│── backend/           # Node.js + Express + Socket.io Backend
-│   ├── models/        # Mongoose models (User, Watchlist)
-│   ├── routes/        # API Routes (auth, stocks, watchlist)
-│   ├── server.js      # Main server file
-│── frontend/          # React.js Frontend
+│── backend/           
+│   ├── models/       
+│   ├── routes/       
+│   ├── server.js     
+│── frontend/          
 │   ├── src/
-│   │   ├── components/  # UI Components
-│   │   ├── pages/       # Pages (Home, Dashboard, Watchlist)
-│   │   ├── App.js       # Main React component
-│   │   ├── index.js     # React entry point
-│── .env               # Environment variables
-│── README.md          # Documentation
-│── package.json       # Dependencies
+│   │   ├── components/  
+│   │   ├── pages/       
+│   │   ├── App.js       
+│   │   ├── index.js     
+│── .env               
+│── README.md         
+│── package.json       
 
 
 
